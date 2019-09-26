@@ -26,17 +26,10 @@ url:  # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Manasvini
 show_excerpts: false # set to true to show excerpts on the homepage
 # Build settings
-theme: minima
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
 
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
-social_links:
+
+minima:
+  social_links:
     github:  Manasvini
     linkedin: www.linkedin.com/in/manasvinisethuraman
 # Exclude from processing.
@@ -58,3 +51,13 @@ social_links:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+theme: minima
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
