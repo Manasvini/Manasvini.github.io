@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "Projects"  
+list_title: "Current"  
 title: "Projects"
 permalink: /projects/
 ---
