@@ -29,7 +29,7 @@ url: /about/ # the base hostname & protocol for your site, e.g. http://example.c
 github_username:  Manasvini
 
 # Build settings
-theme: jekyll-whiteglass
+theme: minima
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
