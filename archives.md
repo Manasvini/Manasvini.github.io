@@ -1,8 +1,7 @@
 ---
 layout: home
-list_title: "Projects"  
+list_title: "Current"  
 title: "Projects"
 permalink: /projects/
 ---
-
-Here's a list of the projects I'm currently working on
+Here's a list of projects I'm working on
