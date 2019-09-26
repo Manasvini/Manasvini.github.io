@@ -23,14 +23,17 @@ email: msethuraman3@gatech.edu
 description:  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  Manasvini
 linkedin_username: manasvinisethuraman
+
 show_excerpts: false # set to true to show excerpts on the homepage
 # Build settings
-minima:
-  date_format: "%b %-d, %Y"  
-  
 
+minima:
+  date_format: "%b %-d, %Y"
+  
+  
 theme: minima
 
 plugins:
@@ -39,9 +42,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
