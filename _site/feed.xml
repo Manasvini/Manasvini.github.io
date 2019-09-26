@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-09-26T09:32:55-04:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">Manasvini Sethuraman</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">Content Production and Consumption in Indigenous Communities</title>
+      
+      
+      <link href="http://localhost:4000/2019/09/25/native-american-content-production/" rel="alternate" type="text/html" title="Content Production and Consumption in Indigenous Communities" />
+      
+      <published>2019-09-25T21:29:39-04:00</published>
+      <updated>2019-09-25T21:29:39-04:00</updated>
+      <id>http://localhost:4000/2019/09/25/native-american-content-production</id>
+      <content type="html" xml:base="http://localhost:4000/2019/09/25/native-american-content-production/">&lt;p&gt;The project attempts to understand perspectives and attitudes prevailing in indigenous communities about internet content creation by extracting themes from interviews with the community about their social media use, attitudes towards blogging and content production and their perceptions about privacy on social media. The project also aims to fill the gaps in our understanding about indigenous notions of content creation and if they differ from traditionally Western perspectives of content creation by looking at Wikipedia edits on pages about indigenous communities. For example, are the Wikipedia articles about indigenous communities created and edited by users living on reservations, or outside, or by bots.&lt;br /&gt;
+&lt;strong&gt;github&lt;/strong&gt;: &lt;a href=&quot;https://github.gatech.edu/msethuraman3/samwise&quot;&gt;https://github.gatech.edu/msethuraman3/samwise&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">The project attempts to understand perspectives and attitudes prevailing in indigenous communities about internet content creation by extracting themes from interviews with the community about their social media use, attitudes towards blogging and content production and their perceptions about privacy on social media. The project also aims to fill the gaps in our understanding about indigenous notions of content creation and if they differ from traditionally Western perspectives of content creation by looking at Wikipedia edits on pages about indigenous communities. For example, are the Wikipedia articles about indigenous communities created and edited by users living on reservations, or outside, or by bots. github: https://github.gatech.edu/msethuraman3/samwise</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Internet Access in Westside Atlanta</title>
+      
+      
+      <link href="http://localhost:4000/2019/09/25/internet-westside-atlanta/" rel="alternate" type="text/html" title="Internet Access in Westside Atlanta" />
+      
+      <published>2019-09-25T20:35:39-04:00</published>
+      <updated>2019-09-25T20:35:39-04:00</updated>
+      <id>http://localhost:4000/2019/09/25/internet-westside-atlanta</id>
+      <content type="html" xml:base="http://localhost:4000/2019/09/25/internet-westside-atlanta/">&lt;p&gt;This project is aimed at enabling equality/social change through computing. The preliminary study is aimed at understanding the current pattern of connectivity that exists today. How does income influence access to Internet? Where do people access the internet(home/public places)? How does access to information affect access to opportunities, employment and healthcare? The idea is to conduct semi-structured interviews with the residents to gain some insights. The answers to these questions are expected to help in co-designing solutions to solve for the information needs of the community, potentially using edge computing based infrastructure.&lt;br /&gt;
+&lt;strong&gt;github&lt;/strong&gt;: &lt;a href=&quot;https://github.gatech.edu/msethuraman3/gandalf&quot;&gt;https://github.gatech.edu/msethuraman3/gandalf&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">This project is aimed at enabling equality/social change through computing. The preliminary study is aimed at understanding the current pattern of connectivity that exists today. How does income influence access to Internet? Where do people access the internet(home/public places)? How does access to information affect access to opportunities, employment and healthcare? The idea is to conduct semi-structured interviews with the residents to gain some insights. The answers to these questions are expected to help in co-designing solutions to solve for the information needs of the community, potentially using edge computing based infrastructure. github: https://github.gatech.edu/msethuraman3/gandalf</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
