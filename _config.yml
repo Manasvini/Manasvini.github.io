@@ -36,7 +36,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
- social_links:
+social_links:
     github:  Manasvini
     linkedin: www.linkedin.com/in/manasvinisethuraman
 # Exclude from processing.
