@@ -32,7 +32,7 @@ minima:
   
   social_links:
     github:  Manasvini
-    linkedin: Manasvini Sethuraman
+    linkedin: manasvinisethuraman
 
 theme: minima
 
@@ -42,9 +42,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
