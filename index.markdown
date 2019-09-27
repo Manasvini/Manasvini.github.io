@@ -5,6 +5,6 @@
 layout: page
 ---
 
-I'm a first year PhD Student in Computer Science at Georgia Tech. I'm currently working in the Embedded Pervasive Lab (EPL) on Internet Connectivity in Atlanta. When I'm not in the lab, I can be found either in the CRC, the Atlanta Humane Society or at Dancing Goats. If you can't find me in any of these places, it's probably past 10 PM. 
+I'm a first year PhD Student in Computer Science at Georgia Tech. I'm currently working in the Embedded Pervasive Lab (EPL) on Internet Connectivity in Atlanta, under the guidance of Dr. Kishore Ramachandran. When I'm not in the lab, I can be found either in the CRC, the Atlanta Humane Society or at Dancing Goats. If you can't find me in any of these places, it's probably past 10 PM. 
 
 
