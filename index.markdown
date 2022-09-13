@@ -5,10 +5,10 @@
 layout: page
 ---
 <p float="left">
-  <img src="IMG-4924.jpg" width="160" height="200"/>
-  <img src="/IMG-4925.jpg" width="220" height="200"/> 
+  <img src="IMG-4924.jpg" width="240" height="200"/>
+  <img src="/IMG-4925.jpg" width="140" height="200"/> 
   <img src="/IMG-4926.jpg" width="200" height="200"/>
-  <img src="/IMG-4927.jpg" width="160" height="200"/>
+  <img src="/IMG-4927.jpg" width="140" height="200"/>
 </p>
 
 I'm a fourth year PhD Student in Computer Science at Georgia Tech. I'm currently working in the Embedded Pervasive Lab (EPL) on a couple of projects, mainly concerned with bandwidth measurements and the role of edge computing in video streaming, under the guidance of Dr. Kishore Ramachandran. When I'm not in the lab, I'm reading, biking or learning to sew/knit/paint. 
