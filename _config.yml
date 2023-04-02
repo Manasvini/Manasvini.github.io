@@ -11,7 +11,7 @@ title:            Manasvini Sethuraman
 description:          'Ph.D. Student @ GaTech'
 #description:      'I am a 4th year Ph.D. student in the Embedded Pervasive Lab led by Dr. Kishore Ramachandran at Georgia Tech. My interests lie in distributed systems, internet measurement, and edge computing.'
 url:              http://hyde.getpoole.com
-baseurl:          http://manasvini.github.io/
+baseurl:          https://manasvini.github.io/
 
 #author:
 #  name:           'Mark '
