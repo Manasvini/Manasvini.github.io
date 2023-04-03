@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
-
+theme:            null
 # Permalinks
 permalink:        pretty
 relative_permalinks: false
