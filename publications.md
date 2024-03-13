@@ -2,7 +2,11 @@
 layout: page
 title: Publications
 ---
-
+Towards Improving Outage Detection with Multiple Probing Protocols.  
+**Manasvini Sethuraman**, Zachary S. Bischof, and Alberto Dainotti
+Passive and Active Measurement (PAM'24).  
+[[link]](https://pam2024.cs.northwestern.edu/pdfs/paper-74.pdf)  
+   
 ClairvoyantEdge: Prescient Prefetching of on-demand Video at the edge of the network.  
 **Manasvini Sethuraman**, Anirudh Sarma, Adwait Bauskar, Ashutosh Dhekne, and Umakishore Ramachandran   
 In Proceedings of the 7th IEEE/ACM Symposium on Edge Computing (SEC'22).   
