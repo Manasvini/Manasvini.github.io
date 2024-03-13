@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 Towards Improving Outage Detection with Multiple Probing Protocols.  
-**Manasvini Sethuraman**, Zachary S. Bischof, and Alberto Dainotti
+**Manasvini Sethuraman**, Zachary S. Bischof, and Alberto Dainotti  
 Passive and Active Measurement (PAM'24).  
 [[link]](https://pam2024.cs.northwestern.edu/pdfs/paper-74.pdf)  
    
