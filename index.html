@@ -2,32 +2,31 @@
 layout: default
 title: Home
 ---
-<style>
-table {
-    border: none;
-    border-collapse: collapse;
-}
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-td {
-    border: none;
-}
-</style>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-<h1>About</h1>
-<div id="photo" style="text-align: left">
-  <p>
-   <table align="left">
-  <tr>
-    <td><img src="files/me.jpg" alt="" height="auto" width=900></img></td>
-    <td>
-        <p> I am a final year Ph.D. student in the Embedded Pervasive Lab led by Dr. Kishore Ramachandran at Georgia Tech School of Computer Science. I am on the job market.<br/> 
-        My interests lie in distributed systems, internet measurement, and edge computing. In my spare time, I like to draw, read, learn new languages (human ones), and wander around whichever city I'm in. Lately I've been learning Japanese and I've been finding Kanji to be mindblowingly amazing.  
-        </p>
-    </td>
-    
-</tr>
-</table>
-
-</p>
+    {{ post.content }}
+  </article>
+  {% endfor %}
 </div>
 
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

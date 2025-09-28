@@ -8,10 +8,11 @@ relative_permalinks: false
 
 # Setup
 title:            Manasvini Sethuraman
-description:          'Ph.D. Student @ GaTech'
-#description:      'I am a 4th year Ph.D. student in the Embedded Pervasive Lab led by Dr. Kishore Ramachandran at Georgia Tech. My interests lie in distributed systems, internet measurement, and edge computing.'
+description:          'Curious about  human languages, software and history, in no specific order.'
 url:              https://manasvini.github.io
-baseurl:          /
+baseurl:          https://manasvini.github.io/about
+
+paginate:         5
 # Custom vars
 version:          2.1.0
 

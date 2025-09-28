@@ -3,4 +3,4 @@ layout: page
 title: Contact  
 ---
 
-You can email me at m lastname 3 at gatech dot edu
+You can email me at firstname at gmail dot com
