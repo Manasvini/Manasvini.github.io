@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Manasvini Sethuraman
 description:          'Curious about  human languages, software and history, in no specific order.'
 url:              https://manasvini.github.io
-baseurl:          https://manasvini.github.io/about
+baseurl:          /
 
 paginate:         5
 # Custom vars
